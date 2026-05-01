@@ -162,8 +162,4 @@ submission.csv
 - Time Series Cross Validation
 - Feature selection nâng cao
 
----
 
-## 9. Tác giả
-
-- AnhCaoNguyetpi
